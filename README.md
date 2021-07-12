@@ -12,7 +12,7 @@ make all
 ```
 
 ## **2. RPI Execution**
-If you wish to test the implementation on your RaspberryPi, you need to have a cross-compiler installed and an active ssh connection. Then execute the following commands:
+If you wish to test the implementation on your RaspberryPi, you need to have a cross-compiler installed and an active ssh connection. Then execute the following commands (assuming the only user is *root*):
 
 ```
 make clean
