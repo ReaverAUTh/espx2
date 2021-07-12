@@ -2,7 +2,7 @@
 
 An embedded device simulating the collection of nearby MAC addresses via bluetooth, in order to maintain a person's close contacts after a positive COVID-19 test.
 
-## **1. Execution**
+## **1. Local Execution**
 In order to test the implementation locally on your machine, use the files located in the home directory. Follow the commands in the order given below:
 
 ```
@@ -11,6 +11,7 @@ make all
 ./covid
 ```
 
+## **2. RPI Execution**
 If you wish to test the implementation on your RaspberryPi, you need to have a cross-compiler installed and an active ssh connection. Then execute the following commands:
 
 ```
