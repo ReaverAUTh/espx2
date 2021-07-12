@@ -27,6 +27,6 @@ scp root@192.168.0.1:delays.bin delays.bin
 scp root@192.168.0.1:close_contacts_COVID.bin close_contacts_COVID.bin
 ```
 
-
+#
 
 Repository for Aristotle Univerisity of Thessaloniki ECE Deparment, Real Time Embedded Systems 2nd project 
